@@ -1,4 +1,4 @@
-function classificarHeroi(nome, xp) {
+function classificarHeroi(nome, xp) { // Paramentros para a função.
     let classificacao;
     if (xp < 1000) {
         classificacao = "Ferro";
@@ -23,4 +23,4 @@ function classificarHeroi(nome, xp) {
 
 let nomeHeroi = "Anderson Queiroz";
 let xpHeroi = 7500;
-classificarHeroi(nomeHeroi, xpHeroi);
+classificarHeroi(nomeHeroi, xpHeroi); // Definição de parametro para as variáveis "nome e xp"
