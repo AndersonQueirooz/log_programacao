@@ -23,7 +23,7 @@ function classificacaoHeroi(result){
         classificacao = "Imortal"
     }
 
-    console.log (`O Herói tem saldo de ${resultado} vitórias e está no nível ${classificacao}`)
+    console.log (`O Herói tem saldo de ${resultado} vitórias  e está no nível ${classificacao}`)
 }
 
 classificacaoHeroi(resultado);
